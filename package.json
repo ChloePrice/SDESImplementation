@@ -1,0 +1,20 @@
+{
+  "name": "des-simpl-ws",
+  "version": "1.0.0",
+  "description": "Workshop about DES algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "des",
+    "cryptography",
+    "algorithm"
+  ],
+  "author": "cprice",
+  "license": "MIT",
+  "dependencies": {
+    "check-types": "^6.0.0",
+    "vorpal": "^1.10.10"
+  }
+}
